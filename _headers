@@ -10,4 +10,7 @@
 
 /sw.js
   Cache-Control: no-cache
+  
+/favicon.ico
+  Cache-Control: public, max-age=86400
 
